@@ -1,0 +1,8 @@
+{
+  "name": "Cheap Flights Workify",
+  "description": "A proof of concept site that allows consumers to shop for cheap flights at work from the perceived satefy of desktop applications.",
+  "repository": "https://github.com/peterbrowse/cheap-flights-workify",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cheap-flights-workify",
+  "version": "0.1.0",
+  "description": "A proof of concept site that allows consumers to shop for cheap flights at work from the perceived satefy of desktop applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.3.3",
+    "node-sass": "3.4.2",
+    "express": "4.13.3"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterbrowse/cheap-flights-workify"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
